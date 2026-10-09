@@ -1,0 +1,15 @@
+Entities
+
+- Doctor, patient, time slots, appointments, speciality, wishlist,
+
+- patient = rigister, login, search, book, cancel, view appointments
+
+- dr = register login, slots , booked slots, waitlist,
+
+
+System
+- registeredDr = map of dr ids
+- regPatient = id and details
+
+booked slots
+
